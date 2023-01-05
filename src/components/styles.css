@@ -38,7 +38,7 @@ input[type="range"] {
   box-shadow: 0 28px 28px rgba(0, 0, 0, 0.2);
   margin: auto;
   color: var(--white);
-  background-color: rgb(255, 135, 135);
+  background-color: rgb(88, 151, 160);
 }
 
 .artwork {
